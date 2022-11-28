@@ -5,10 +5,3 @@
 
 555
 666
-<<<<<<< HEAD
-=======
-
-
-58revert
-65
->>>>>>> parent of d0eb468 (last change)
