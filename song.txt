@@ -10,4 +10,8 @@ main
 
 feature
 
+<<<<<<< HEAD
 main
+=======
+feature
+>>>>>>> feature
